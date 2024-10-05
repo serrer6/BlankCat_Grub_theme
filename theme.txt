@@ -1,0 +1,21 @@
+title-text: ""
+desktop-image: "background_1920x1080.png"
+
++ boot_menu {
+  left = 19%
+  top = 23%
+  width = 28%
+  height = 54%
+  selected_item_color = "#314D65"
+  item_icon_space = 6
+  item_height = 48
+  item_padding = 3
+  item_spacing = 6
+  selected_item_pixmap_style = "select_*.png"
+}
+
++image{
+	top=0%
+	left=0%
+	file="info.png"
+}
